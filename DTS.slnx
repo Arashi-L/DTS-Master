@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DiskKiller.vcxproj" Id="28f7d04f-ebec-47ce-8113-fd1ad416fe92" />
+</Solution>
